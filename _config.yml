@@ -1,0 +1,14 @@
+layout_spectrum: 0.38411103072576225
+typography_spectrum: 0.676041713450104
+color:
+  brandStrength: 0.11857610521838069
+  lightness: 0.11217186972498894
+  saturation: 0.4100959128700197
+  rhythmicContrast: 0.047582169994711876
+  brandColors:
+    - '#0FB6BE'
+    - '#F05540'
+    - '#8ACEB8'
+    - '#FFFFFF'
+    - '#83452F'
+name: Overlap Interactive
